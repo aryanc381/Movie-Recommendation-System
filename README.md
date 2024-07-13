@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12.4-blueviolet)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-
+![result_page](Outputs/results.png)
 
 In this project, I have made a content-based movie recommendation system that recommends movies to the user based on the movies that they currently like via search toggle bar.
 
