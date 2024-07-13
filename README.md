@@ -28,4 +28,9 @@ Let me explain you the importance of a recommender system in the real world.
 I want you to think that you own a shoe retail store in Koregaon park, India. There's a lot of competition in Koregaon park for shoe vendors as there are a lot of them and a lot of them are well reputed. You want your store to be a one stop destination. Imagine I come to your store and my shoe size is UK12 and I ask you for basketball shoes. You show me 5 pairs of shoes and you see that I like the red precision 6 shoes very much but I already have them is what I say. What would you do as the owner of that shop. You would show me more types of ```UK12``` shoes that are ```red``` in colour, becuse I showed interest in red shoes. This is what a recommender system does on big websites like amazon, netflix, etc because customer acquisition is very important. Also these recommender systems are very important to the company because the attention span of consumers is reducing when it comes to online shopping, so showing the most right product at the right time is very important for sales. Well in the example above, red and UK12 are the tags. The ML Algorithm uses these tags to identify similar products and create a confidence rate. The product with the highest confidence rate is shown. 
 In this project, the tags are movie director, actor, movie name, genre, type, etc that help the ML Algorithm to understand the similarities between the movies.
 
-## 
+## The project
+### ML Algorithm 
+1. **Data Extraction** - I used pandas library for data extraction and seaborn to visualise it where I realised majority of the movies are english.
+2. **Feature Selection** - genre, id, keywords, title, overview, cast, crew.
+3. **Data Preprocessing** - The entire data was preprocessed into title and tags where tags = overview + genres + keywords + cast + crew.
+4. **Vectorization** - Conversion of texts into words (text-vectorization)
