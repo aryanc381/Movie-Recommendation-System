@@ -38,3 +38,12 @@ In this project, the tags are movie director, actor, movie name, genre, type, et
 
 ### Frontend
 - The frontend is developed using streamlit 
+
+### Backend
+- You can deploy the website easily on the backend server using the following SAAS platforms.
+    1. [heroku](https://devcenter.heroku.com/categories/deployment)
+    2. [streamlit](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app)
+    3. [Apache Deployment](https://www.youtube.com/watch?v=vpBJnXkQZiw&ab_channel=JoachimHenrikB%C3%BClow)
+ 
+  
+ 
