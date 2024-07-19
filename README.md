@@ -110,7 +110,6 @@ This will start the Streamlit app, and you can interact with the movie recommend
 ## Conclusion
 This project demonstrates the creation of a content-based movie recommendation system using vectorization and cosine similarity. The system recommends movies based on the user's interests by analyzing the similarity between movie tags. The project is designed with a Streamlit frontend, a Heroku (or other) backend, and utilizes scikit-learn for machine learning algorithms.
 
-You can find the complete project on [GitHub](https://github.com/aryanc381/Movie-Recommendation-System).
 ---
 
 **Note:** If you want to copy or contribute to this repository, please feel free to fork the repository on GitHub and make your changes. Contributions are welcome, and if you have any doubts let me know at ```venomc381@gmail.com```
