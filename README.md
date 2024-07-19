@@ -34,3 +34,7 @@ In this project, the tags are movie director, actor, movie name, genre, type, et
 2. **Feature Selection** - genre, id, keywords, title, overview, cast, crew.
 3. **Data Preprocessing** - The entire data was preprocessed into title and tags where tags = overview + genres + keywords + cast + crew.
 4. **Vectorization** - Conversion of texts into words (text-vectorization)
+5. **Prediction** - Prediction of similar movies is made using vectorisation.
+
+### Frontend
+- The frontend is developed using streamlit 
